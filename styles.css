@@ -1,0 +1,30 @@
+button {
+  color: #5900f8;
+  font: 12px "Courier New";
+  border-radius: 10;
+  border-style: dotted;
+}
+ window{
+    background-color: #fffffe;
+    color: #01fef9;
+    font: 22px "Courier New";
+}
+grid{
+  background-color: #989fa6;
+}
+
+button:active{
+  background-color:#0101fe;
+}
+button:hover{
+  background-color:#01fef9;
+}
+
+ textview text {
+    background-color: #fffffe;
+    color: #01fef9;
+    font: 12px "Courier New";
+}
+textview border{
+	border-style: dotted;
+}
